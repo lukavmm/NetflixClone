@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+.App {
+  background: linear-gradient(43deg, #102d71 0%, #000000 52%, #c12a23 100%);
+}
